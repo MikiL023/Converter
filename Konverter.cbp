@@ -32,8 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Brzina.cpp" />
+		<Unit filename="Brzina.h" />
 		<Unit filename="Duzina.cpp" />
 		<Unit filename="Duzina.h" />
+		<Unit filename="Povrsina.cpp" />
+		<Unit filename="Povrsina.h" />
 		<Unit filename="Temperatura.cpp" />
 		<Unit filename="Temperatura.h" />
 		<Unit filename="main.cpp" />

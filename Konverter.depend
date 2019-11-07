@@ -24,3 +24,40 @@
 
 1566333878 c:\users\mihae\desktop\konverter - copy\duzina.h
 
+1566330278 source:c:\users\mihae\desktop\converter\duzina.cpp
+	<iostream>
+	<math.h>
+	"Duzina.h"
+
+1566330278 c:\users\mihae\desktop\converter\duzina.h
+
+1572820882 source:c:\users\mihae\desktop\converter\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	"Temperatura.h"
+	"Duzina.h"
+	"Povrsina.h"
+	"Brzina.h"
+
+1565905769 c:\users\mihae\desktop\converter\temperatura.h
+
+1565902499 source:c:\users\mihae\desktop\converter\temperatura.cpp
+	<iostream>
+	<math.h>
+	"Temperatura.h"
+
+1572819567 c:\users\mihae\desktop\converter\povrsina.h
+
+1572820563 source:c:\users\mihae\desktop\converter\povrsina.cpp
+	<iostream>
+	<math.h>
+	"Povrsina.h"
+
+1572821133 source:c:\users\mihae\desktop\converter\brzina.cpp
+	"Brzina.h"
+	<iostream>
+	<math.h>
+
+1572820563 c:\users\mihae\desktop\converter\brzina.h
+
